@@ -8,3 +8,7 @@ body{
     background-color: var(--back-ground-color);
     color: var(--text-color);
 }
+
+h1{
+    text-align: center;
+}
