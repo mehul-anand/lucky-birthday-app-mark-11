@@ -9,9 +9,14 @@ body{
     color: var(--text-color);
 }
 
-h1{
+#header{
     text-align: center;
+    font-size: 1.7rem;
 }
+
+/* h1{
+    text-align: center;
+} */
 
 .container{
     display: flex;

@@ -20,9 +20,9 @@ function checkLucky() {
             messageP.innerText = "Your Lucky Number can't be negative"
         } else {
             if (dateNumber % Number(userNumber.value) === 0) {
-                messageP.innerText = "Your Birthday is Lucky !!"
+                messageP.innerText = "Your Birthday is Lucky 🥳"
             } else {
-                messageP.innerText = "Your Birthday is not Lucky !!"
+                messageP.innerText = "Your Birthday is not Lucky 🙁 "
             }
         }
     } else {
