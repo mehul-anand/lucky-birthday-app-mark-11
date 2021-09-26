@@ -22,14 +22,26 @@ h1{
 #date-of-birth{
     margin: 1rem 1rem 2rem;
     height: 25px;
+
+    
 }
 
 #lucky-number{
     margin: 1rem 1rem 2rem;
     height: 25px;
+
+    
 }
 
 #check{
     width: 100px;
     height: 30px;
+    border-radius: 1rem;
 }
+
+.working {
+    background-color: transparent;
+    color: var(--text-color);
+    border-color: var(--text-color);
+}
+
