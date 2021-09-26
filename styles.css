@@ -50,3 +50,11 @@ body{
     border-color: var(--text-color);
 }
 
+.label-class{
+    font-size: 1rem;
+}
+
+#message{
+    font-size: 1rem;
+}
+
