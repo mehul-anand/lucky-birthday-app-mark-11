@@ -1,12 +1,12 @@
 :root{
     --back-ground-color : #101820FF;
     --text-color: #FEE715FF;
-    
 }
 
 body{
     background-color: var(--back-ground-color);
     color: var(--text-color);
+    margin: 0px;
 }
 
 #header{
