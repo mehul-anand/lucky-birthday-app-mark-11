@@ -27,6 +27,7 @@ function checkLucky() {
         }
     } else {
         messageP.innerText = "Please fill in both the fields (Non-zero)"
+        userNumber.placeholder = 0
     }
 
 }
