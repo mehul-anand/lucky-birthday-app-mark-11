@@ -1,6 +1,5 @@
 # lucky-birthday-app-mark-11
-<<<<<<< HEAD
-A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birth date is divisible by your lucky number.
+### A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birth date is divisible by your lucky number.
 
 ## Contents
 - Header 
@@ -32,6 +31,3 @@ A website which checks whether your birthday is lucky or not by calculating if s
  - [replaceAll()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll)
  - [charAt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
  
-=======
-A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birth date is divisible by your lucky number
->>>>>>> parent of df9ee6c (Update README.md)
